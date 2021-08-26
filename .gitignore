@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+app-linux
+app-win.exe
+app-macos
